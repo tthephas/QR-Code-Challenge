@@ -30,7 +30,7 @@ body {
     border: 1px solid lightgrey;
     margin: 50px 520px;
     position: relative;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .qr-container {
@@ -38,7 +38,7 @@ body {
     width: 210px;
     height: 200px;
     border: 1px solid lightgrey;
-    margin: 9px 15px;
+    margin: 9px 14px;
     border-radius: 10px;
 }
 
